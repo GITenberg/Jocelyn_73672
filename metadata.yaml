@@ -1,0 +1,39 @@
+_repo: Jocelyn_73672
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: https://en.wikipedia.org/wiki/John_Galsworthy
+description: ''
+gutenberg_issued: '2024-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73672'
+  lccn: '15023109'
+language: en
+pgterms:marc904: https://archive.org/details/jocelynx00gals
+pgterms:marc905: 20210430024750john
+pgterms:marc906: '1898'
+pgterms:marc907: gb
+production_note: Emmanuel Ackerman, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bDuckworth & Co., $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Invalids -- Fiction'
+- !lcsh 'Spouses -- Fiction'
+- !lcsh 'Riviera (France) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Jocelyn
+url: http://www.gutenberg.org/ebooks/73672
